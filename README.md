@@ -12,4 +12,4 @@
 3. Digits - Check if all characters in the input are digits
 4. Armstrong - Check if the input is an "Armstrong Number"
 5. Nationalize - Check the nationality probability of a given first name. Use this https://nationalize.io/ to get the nationality probability of a given name and then use this JSON file to convert country ISO code (e.g. IL) to country name (e.g Israel). Print the first (most probable) result only with its probability percentage. For example, for “Yuval” the output should be “Israel 96.4%”
-    Exit - Exit successfully from the application
+6. Exit - Exit successfully from the application
